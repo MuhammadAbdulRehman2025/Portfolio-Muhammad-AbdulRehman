@@ -150,13 +150,13 @@ header .hero {
 }
 
 header .hero h1 {
-  font-size: 8vw;
+  font-size: 5vw;
   color: white;
   font-weight: 300;
 }
 
 header .hero h1 strong {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 header .hero p {
@@ -176,7 +176,7 @@ header .hero p {
     width: 0%;
   }
   to {
-    width: 335px;
+    width: 100%;
   }
 }
 /* cursor animations */
